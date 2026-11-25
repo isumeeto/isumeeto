@@ -1,122 +1,93 @@
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=180&section=header&text=devSumeet&fontSize=52&fontColor=111111&fontAlignY=45&desc=Frontend%20Developer&descAlignY=68&descSize=17" width="100%" alt="devSumeet — Frontend Developer" />
-</p>
+<div align="center">
 
-<h3 align="center">Building thoughtful digital experiences.</h3>
+# devSumeet
 
-<p align="center">
-  I enjoy creating interactive websites, immersive interfaces, and desktop applications with a focus on design, functionality, and user experience.
-</p>
+**Frontend Developer**
 
-<p align="center">
-  <a href="mailto:hello.sumeet.dev@gmail.com">Email</a> ·
-  <a href="https://github.com/isumeeto">GitHub</a>
-</p>
+I build interactive websites and interfaces. I enjoy working on the details — from layout and interaction to motion and 3D on the web.
+
+[Email](mailto:hello.sumeet.dev@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/isumeeto)
+
+</div>
 
 ---
 
 ## About
 
-- Focused on frontend development and interactive web experiences.
-- Interested in 3D interfaces, animations, and modern web technologies.
-- Exploring desktop application development.
-- Always experimenting with ideas and turning them into functional products.
+Frontend development is where I spend most of my time. I like taking an idea from a rough layout to a working interface, then refining the spacing, interactions, and small details until it feels right.
 
-## Selected Work
+I also enjoy experimenting with motion, 3D on the web, and desktop applications. Most of the repositories here are projects or experiments I've built along the way.
 
-### 01. Snowy Buddy
+## Selected work
 
-**Desktop Companion Application**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 &nbsp; FitMez</h3>
+      <p><strong>Digital wardrobe and outfit styling</strong></p>
+      <p>A fashion-focused web experience for exploring a digital wardrobe and outfit ideas.</p>
+      <p><sub>My work: frontend development. Backend development is still pending.</sub></p>
+      <p><a href="https://fitmez.netlify.app">Live demo ↗</a> &nbsp;·&nbsp; <a href="https://github.com/isumeeto/fitmez">Repository ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 &nbsp; Blue Dot</h3>
+      <p><strong>Career discovery and personal direction</strong></p>
+      <p>A platform concept for exploring career directions, organizing plans, and keeping track of personal progress.</p>
+      <p><sub>Live project</sub></p>
+      <p><a href="https://bluedot-1.netlify.app">Live demo ↗</a> &nbsp;·&nbsp; <a href="https://github.com/isumeeto/blue-dot">Repository ↗</a></p>
+    </td>
+  </tr>
+</table>
 
-A desktop companion built to make everyday computer interactions more convenient.
+## Other work
 
-- Voice interaction and push-to-talk.
-- Reminders and task management.
-- Desktop interaction and automation.
-- Local memory and persistent features.
+**03 &nbsp; Snowy Buddy** — Desktop companion experiment<br>
+A Windows desktop companion project exploring voice interaction, reminders, and desktop workflows. Development is currently on hold; I may return to it with new features.
 
-[Repository ↗](https://github.com/isumeeto/snowy.buddy)
+[View repository ↗](https://github.com/isumeeto/snowy.buddy)
 
-### 02. FitMez
+<br />
 
-**Digital Wardrobe & Outfit Styling**
+**04 &nbsp; 4Bit VoiceCare** — Hackathon project<br>
+A collaborative grievance-management concept. My contribution was building the frontend showcase, rather than the complete application.
 
-A fashion-focused platform designed around digital wardrobe management and personalized outfit experiences.
+[View frontend repository ↗](https://github.com/isumeeto/4Bit-frontend)
 
-- Interactive frontend experience.
-- Modern interface and styling.
-- Responsive web application.
+## Tools I work with
 
-*Frontend developed; backend implementation is not yet complete.*
+| Area | Technologies |
+|:--|:--|
+| **Core** | HTML · CSS · JavaScript |
+| **Frameworks & styling** | React · Next.js · Tailwind CSS |
+| **Also exploring** | Python |
 
-[Live Demo ↗](https://fitmez.netlify.app) · [Repository ↗](https://github.com/isumeeto/fitmez)
+## GitHub activity
 
-### 03. Blue Dot
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=isumeeto&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=8b949e" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=isumeeto&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=6e7781" alt="GitHub statistics for isumeeto" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=isumeeto&layout=compact&langs_count=5&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isumeeto&layout=compact&langs_count=5&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=57606a" alt="Most used languages across public repositories" />
+  </picture>
+</div>
 
-**Career Discovery & Personal Development**
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=isumeeto&bg_color=0d1117&color=8b949e&line=8b949e&point=e6edf3&area=true&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=isumeeto&bg_color=ffffff&color=57606a&line=6e7781&point=24292f&area=true&hide_border=true" alt="GitHub contribution activity" />
+  </picture>
+</div>
 
-A platform focused on helping people explore career directions, organize goals, and track personal progress.
-
-- Career discovery workflows.
-- Personalized planning.
-- Progress tracking and daily reflections.
-
-[Live Demo ↗](https://bluedot-1.netlify.app) · [Repository ↗](https://github.com/isumeeto/blue-dot)
-
-### 04. 4Bit VoiceCare
-
-**Hackathon Project · Frontend Contribution**
-
-A collaborative grievance-management platform designed around voice-enabled reporting and administrative workflows.
-
-My contribution focused on developing the frontend showcase.
-
-[Frontend Repository ↗](https://github.com/isumeeto/4Bit-frontend)
-
----
-
-## Technologies
-
-**Languages**
-
-![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat-square&logo=tailwindcss&logoColor=white)
+<sub>Language charts reflect code proportions in public repositories; they are not a measure of proficiency. GitHub cards are provided by external services and may occasionally be unavailable.</sub>
 
 ---
 
-## GitHub Statistics
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isumeeto&show_icons=true&hide_border=true&bg_color=ffffff&title_color=222222&text_color=555555&icon_color=555555&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isumeeto&layout=compact&hide_border=true&bg_color=ffffff&title_color=222222&text_color=555555" alt="Most used languages" />
-</p>
+**Have something interesting in mind?**<br>
+[Get in touch](mailto:hello.sumeet.dev@gmail.com)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=isumeeto&theme=default&hide_border=true&background=FFFFFF&ring=444444&fire=777777&currStreakLabel=555555" width="90%" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isumeeto&bg_color=ffffff&color=444444&line=777777&point=222222&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-</p>
-
----
-
-## Get in Touch
-
-Interested in collaborating or discussing ideas?
-
-<p align="center">
-  <a href="mailto:hello.sumeet.dev@gmail.com">hello.sumeet.dev@gmail.com</a>
-</p>
-
-<p align="center">
-  <sub>Designed and built with simplicity in mind.</sub>
-</p>
+</div>
