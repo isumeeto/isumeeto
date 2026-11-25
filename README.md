@@ -1,22 +1,10 @@
 <p align="center">
-  <img src="assets/devsumeet-coastal-loop.gif" alt="Animated coastal-night banner with a moving car, sunset and the devSumeet name" width="100%" />
-</p>
-
-<h1 align="center">devSumeet</h1>
-
-<p align="center">
-  <strong>Frontend Developer</strong><br />
-  Building interactive websites and thoughtful digital experiences.
-</p>
-
-<p align="center">
-  <a href="mailto:hello.sumeet.dev@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://github.com/isumeeto">GitHub</a>
+  <img src="assets/devsumeet-coastal-loop.gif" alt="Animated coastal-night scene with a car moving forward, a sunset and the devSumeet name" width="100%" />
 </p>
 
 ---
 
-## A little about me
+## About
 
 I enjoy shaping ideas into usable interfaces — from responsive websites to animated, immersive web experiences. I care about the details: how something looks, how it feels to use, and how well it works.
 
